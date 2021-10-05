@@ -1,0 +1,74 @@
+[
+  {
+    "idproducto": "100001",
+    "nombre_del_producto": "Iphone 12 Pro 12868",
+    "valor_unitario": "4800000",
+    "descripcion": "Pantalla super retina XDR de 6.1 / Tecnologia lidar mapa en nanosegundos"
+  },
+  {
+    "idproducto": "100002",
+    "nombre_del_producto": "Iphone 12 Pro 5126B",
+    "valor_unitario": "6450000",
+    "descripcion": "Con chip A14 Bionic superior a otros Smartphone / Tecnologia lidar mapa en nanosegundos"
+  },
+  {
+    "idproducto": "100003",
+    "nombre_del_producto": "Iphone 12 Mini 646B",
+    "valor_unitario": "3300000",
+    "descripcion": "Camara de 12 Mpx / Pantalla liquida de retina 6.1 pulgadas"
+  },
+  {
+    "idproducto": "200001",
+    "nombre_del_producto": "Samsung Galaxy S21",
+    "valor_unitario": "6250000",
+    "descripcion": "Video en 8K / Camara 108 MP / Bateria Ultra 5000 mAh"
+  },
+  {
+    "idproducto": "200002",
+    "nombre_del_producto": "Samsung Galaxy Z",
+    "valor_unitario": "8999000",
+    "descripcion": "Cristal plegable de 7.6 pulgadas / Modo FLEX App Pair"
+  },
+  {
+    "idproducto": "200003",
+    "nombre_del_producto": "Samsung Galaxy S21 Plus",
+    "valor_unitario": "5150000",
+    "descripcion": "Camara 64 Mpx / Camara 4800 mAh"
+  },
+  {
+    "idproducto": "300001",
+    "nombre_del_producto": "Xiaomi Poco F3",
+    "valor_unitario": "2300000",
+    "descripcion": "Procesador Qualcomm SnapDragon 870 / Camara angular campovision 120 grados"
+  },
+  {
+    "idproducto": "300002",
+    "nombre_del_producto": "Xiaomi Mi 11 Lite 128 GB",
+    "valor_unitario": "1850000",
+    "descripcion": "Triple camara 64 Mpx / Video 4K / Panel amoled de 6.55 pulgadas"
+  },
+  {
+    "idproducto": "300003",
+    "nombre_del_producto": "Xiaomi Redmi Note 10",
+    "valor_unitario": "1560000",
+    "descripcion": "Camara 108 Mpx / Carga rapida 33W / Altavoces duales"
+  },
+  {
+    "idproducto": "400001",
+    "nombre_del_producto": "HUAWEI mate 30 Pro",
+    "valor_unitario": "3100000",
+    "descripcion": "Pantalla de 6.63 pulgadas / Camara cuadruple 40 Mpx/ Bateria 4500 mAh"
+  },
+  {
+    "idproducto": "400002",
+    "nombre_del_producto": "HUAWEI Y94",
+    "valor_unitario": "1120000",
+    "descripcion": "Pantalla de 6.63 pulgadas / Camara de 64 Mpx"
+  },
+  {
+    "idproducto": "400003",
+    "nombre_del_producto": "HUAWEI Y7P",
+    "valor_unitario": "629900",
+    "descripcion": "Camara trasera triple / Bateria 4000 mAh"
+  }
+]
